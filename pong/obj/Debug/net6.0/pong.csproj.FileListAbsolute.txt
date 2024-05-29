@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\pong.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\pong.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\pong.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\pong.csproj.CoreCompileInputs.cache
