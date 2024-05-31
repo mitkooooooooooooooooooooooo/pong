@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5B7F98B4-6997-4649-ADFB-AD4C8CEA0783}"
 	ProjectSection(SolutionItems) = preProject
 		pongclass.cs = pongclass.cs
+		RacketClass.cs = RacketClass.cs
 	EndProjectSection
 EndProject
 Global

@@ -16,11 +16,6 @@ namespace pong
                 this.Set(0, i, tile);
                 this.Set(this.GetRows - 1, i, tile);
             }
-
-                this.Tile = tile;
-
-            
-
         }
         public int GetRows => this._field.GetLength(0);
         public int GetCols => this._field.GetLength(1);

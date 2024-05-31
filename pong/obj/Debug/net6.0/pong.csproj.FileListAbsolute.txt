@@ -3,3 +3,13 @@ C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\pong.G
 C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\pong.AssemblyInfoInputs.cache
 C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\pong.AssemblyInfo.cs
 C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\pong.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\bin\Debug\net6.0\pong.exe
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\bin\Debug\net6.0\pong.deps.json
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\bin\Debug\net6.0\pong.runtimeconfig.json
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\bin\Debug\net6.0\pong.dll
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\bin\Debug\net6.0\pong.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\pong.dll
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\refint\pong.dll
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\pong.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\pong.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Документи\GitHub\pong\pong\obj\Debug\net6.0\ref\pong.dll
